@@ -1,4 +1,5 @@
 .container {
+    margin: 0;
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
@@ -16,5 +17,16 @@ img {
 }
 
 .card {
-    margin: 0 5px 0 5px;
+    margin: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+    }
+
+    img {
+        width: 100%;
+        height: 300px;
+    }
 }
