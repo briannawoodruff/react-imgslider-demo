@@ -12,7 +12,7 @@ A simple React image slider using fetch to display images.
 
 ## Usage:
 ![fullscreen](src/assets/fullscreen-slider.jpg) <br />
-![mobile friendly](src\assets\mobilefriendly.jpg) <br />
+![mobile friendly](src/assets/mobilefriendly.jpg) <br />
 
 ## License: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
