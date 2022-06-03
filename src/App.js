@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './styles.css';
 
 function App() {
-  const url = 'https://picsum.photos/v2/list?page=5&limit=5';
+  const url = 'https://picsum.photos/v2/list?page=5&limit=6';
 
   const [results, setResults] = useState([]);
 
