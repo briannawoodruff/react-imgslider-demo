@@ -27,7 +27,6 @@ function App() {
               src={image.download_url}
               alt={image.author}
               key={image.id}
-              className=''
             />
           </li>
         ))}
